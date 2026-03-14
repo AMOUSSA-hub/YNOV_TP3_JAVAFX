@@ -1,4 +1,2 @@
 # Maven
-target/ 
-tickets.db 
-export/
+target/
